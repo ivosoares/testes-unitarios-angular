@@ -103,5 +103,7 @@
       }
     }
   },
-  "defaultProject": "testes-unitarios-angular"
+  "cli": {
+    "analytics": false
+  }
 }
